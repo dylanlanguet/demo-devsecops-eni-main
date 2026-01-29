@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/dylanlanguet/demo-devsecops-eni-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/dylanlanguet/demo-devsecops-eni-frontend.git
